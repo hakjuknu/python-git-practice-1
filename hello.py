@@ -1,2 +1,2 @@
-for i in range(1, 10+1):
-    print("hello world")
+for i in range(1, 20+1):
+    print("Hello Fastcampus!! 야호!")
